@@ -2,9 +2,6 @@
 
 ## My name is Kayk Caputo
 #### I'm a passionate young developer who loves programming, reading, and exploring new ideas. My journey in tech is driven by curiosity and a constant desire to learn. Whether I'm solving complex problems or diving into new projects, I strive to improve my skills every day.
-<br></br>
-
-![Snake animation](https://github.com/KaykCaputo/KaykCaputo/blob/output/github-contribution-grid-snake.svg)
 
 <br></br>
 <div>
