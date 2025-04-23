@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 
 ## My name is Kayk Caputo
-#### I'm a passionate young developer who loves programming, reading, and exploring new ideas. My journey in tech is driven by curiosity and a constant desire to learn. Whether I'm solving complex problems or diving into new projects, I strive to improve my skills every day.
+#### I'm a passionate developer who loves programming, and exploring new ideas. My journey in tech is driven by curiosity and a constant desire to learn. Whether I'm solving complex problems or diving into new projects, I strive to improve my skills every day.
 
 <br></br>
 <div>
