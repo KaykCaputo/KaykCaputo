@@ -18,7 +18,7 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-#### 🎮 [Test Capetalismo on Itch.io](https://xxcaputokayk.itch.io/capetalismo)
+#### 🎮 [Test Capetalismo on Itch.io](https://xx-caputokayk-xx.itch.io/capetalismo)
 
 ---
 
