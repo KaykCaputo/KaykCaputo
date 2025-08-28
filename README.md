@@ -25,10 +25,26 @@ Let’s build cool stuff together! 🤝
 ### 📊 GitHub Stats
 
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykCaputo&show_icons=true&theme=dracula&count_private=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaykCaputo&theme=dracula" />
 </div>
 
 ---
+
+### 🚀 Top Languages & Contributions
+
+<div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=8&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+### 💡 Daily Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+---
+
 
 ### 💻 Languages
 
@@ -52,3 +68,6 @@ Let’s build cool stuff together! 🤝
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
