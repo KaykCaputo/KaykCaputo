@@ -24,7 +24,7 @@ Let’s build cool stuff together! 🤝
 
 ### 📊 GitHub Stats
 
-<div>
+<div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykCaputo&show_icons=true&theme=dracula&count_private=true" />
   <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaykCaputo&theme=dracula" />
 </div>
@@ -32,13 +32,15 @@ Let’s build cool stuff together! 🤝
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaykCaputo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaykCaputo&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ---
 
 ### 🚀 Top Languages & Contributions
 
-<div>
+<div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=8&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </div>
@@ -46,14 +48,15 @@ Let’s build cool stuff together! 🤝
 ---
 
 ### 💡 Daily Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
 
 ---
 
-
 ### 💻 Languages
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; gap: 10px; align-items: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -64,14 +67,19 @@ Let’s build cool stuff together! 🤝
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</div>
 
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KaykCaputo&color=ff5f6d&style=for-the-badge)
+
 ---
+
 ### 📬 Contact
 
-<div>
+<div align="center">
   <a href="mailto:caputo.kayk@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -79,6 +87,3 @@ Let’s build cool stuff together! 🤝
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
