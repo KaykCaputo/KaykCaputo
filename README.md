@@ -38,12 +38,10 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-### 🚀 Top Languages & Contributions
+### 🚀 Top Languages
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=8&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</div>
 
 ---
 
