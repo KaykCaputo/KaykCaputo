@@ -31,6 +31,11 @@ Let’s build cool stuff together! 🤝
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KaykCaputo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ### 🚀 Top Languages & Contributions
 
 <div>
@@ -58,6 +63,13 @@ Let’s build cool stuff together! 🤝
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KaykCaputo&icon=6&color=1)](https://visitcount.itsvg.in)
+
+---
 ### 📬 Contact
 
 <div>
