@@ -67,8 +67,7 @@ Let’s build cool stuff together! 🤝
 ![](https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KaykCaputo&icon=6&color=1)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=KaykCaputo&color=ff5f6d&style=for-the-badge)
 ---
 ### 📬 Contact
 
