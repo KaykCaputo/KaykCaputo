@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there!
 
 ### My name is Kayk Caputo
 I'm a passionate developer who loves coding and exploring cool ideas.  
@@ -6,15 +6,15 @@ My journey in tech is driven by curiosity and a constant desire to learn.
 Whether I'm tackling tricky problems or diving into new projects,\
 I'm always looking to level up my skills.
 
-🎓 Currently studying Computer Science  
-💻 Working as a backend developer  
+Currently studying Computer Science  
+Working as a backend developer  
 
 When I’m not coding, you’ll probably find me gaming, watching something,\
 messing around with some music, or getting lost in some deep philosophical\
-rabbit hole. 🎮🎶📺🧠
+rabbit hole. 
 
 Feel free to check out my projects or connect with me\
-Let’s build cool stuff together! 🤝
+Let’s build cool stuff together! 
 
 ---
 
@@ -22,7 +22,7 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykCaputo&show_icons=true&theme=dracula&count_private=true" />
@@ -31,7 +31,7 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KaykCaputo&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
 </div>
@@ -45,14 +45,14 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-### 💡 Daily Quote
+### Daily Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
 
 ---
 
-### 💻 Languages
+### Languages
 
 <div align="center" style="display: flex; gap: 10px; align-items: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
@@ -64,7 +64,7 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </div>
@@ -75,7 +75,7 @@ Let’s build cool stuff together! 🤝
 
 ---
 
-### 📬 Contact
+### Contact
 
 <div align="center">
   <a href="mailto:caputo.kayk@gmail.com" target="_blank">
