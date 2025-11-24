@@ -38,7 +38,7 @@ Let’s build cool stuff together!
 
 ---
 
-### 🚀 Top Languages
+### Top Languages
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=8&theme=dracula"/>
