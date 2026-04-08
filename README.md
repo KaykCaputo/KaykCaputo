@@ -1,87 +1,77 @@
-## Hey there!
+<h1 align="center">Hi, I'm Kayk Caputo</h1>
 
-### My name is Kayk Caputo
-I'm a passionate developer who loves coding and exploring cool ideas.  
-My journey in tech is driven by curiosity and a constant desire to learn.  
-Whether I'm tackling tricky problems or diving into new projects,\
-I'm always looking to level up my skills.
+<p align="center">
+  Developer • Computer Science Student
+</p>
 
-Currently studying Computer Science  
-Working as a backend developer  
-
-When I’m not coding, you’ll probably find me gaming, watching something,\
-messing around with some music, or getting lost in some deep philosophical\
-rabbit hole. 
-
-Feel free to check out my projects or connect with me\
-Let’s build cool stuff together! 
+<p align="center">
+  I like building things, exploring ideas, and constantly learning along the way.
+</p>
 
 ---
 
-## [![Play Capetalismo on itch.io](https://img.shields.io/badge/Play%20Capetalismo-on%20itch.io-ff5f6d?logo=itch.io&style=for-the-badge)](https://xx-caputokayk-xx.itch.io/capetalismo)
+## About Me
+
+I'm a developer driven by curiosity and a desire to understand how things work.  
+Whether I'm building systems or experimenting with new ideas, I'm always trying to improve and learn something new. 
+
+When I’m not coding, you’ll probably find me gaming, watching something,  
+playing music, or getting lost in some deep philosophical rabbit hole.
 
 ---
 
-### GitHub Stats
+## Featured Projects
+
+### Capetalismo
+An independent game project in development on itch.io
+
+[![Play Capetalismo on itch.io](https://img.shields.io/badge/Play%20Capetalismo-on%20itch.io-ff5f6d?logo=itch.io&style=for-the-badge)](https://xx-caputokayk-xx.itch.io/capetalismo)
+
+> Created with [André Gustavo](https://github.com/AndreXP1)
+  
+---
+
+### OracleTrace
+A lightweight Python performance profiler for detecting regressions and comparing execution traces across runs
+
+[View on GitHub](https://github.com/KaykCaputo/oracletrace)
+
+> Created with [André Gustavo](https://github.com/AndreXP1)
+
+---
+
+### More Projects
+- Explore my work: https://github.com/KaykCaputo  
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykCaputo&show_icons=true&theme=dracula&count_private=true" />
-  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaykCaputo&theme=dracula" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+
 </div>
 
 ---
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaykCaputo&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
-
-### Top Languages
+## Contact
 
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykCaputo&layout=compact&langs_count=8&theme=dracula"/>
-
----
-
-### Daily Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
-
----
-
-### Languages
-
-<div align="center" style="display: flex; gap: 10px; align-items: center;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</div>
-
----
-
-### Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KaykCaputo&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=KaykCaputo&color=ff5f6d&style=for-the-badge)
-
----
-
-### Contact
-
-<div align="center">
-  <a href="mailto:caputo.kayk@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:caputo.kayk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kayk-caputo" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kayk-caputo">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<p align="center">
+  Building, learning, and occasionally overthinking everything.
+</p>
