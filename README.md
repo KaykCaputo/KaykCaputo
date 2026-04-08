@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I like building things, exploring ideas, and constantly learning along the way.
+  I like building things, exploring ideas, and learning along the way.
 </p>
 
 ---
@@ -13,14 +13,14 @@
 ## About Me
 
 I'm a developer driven by curiosity and a desire to understand how things work.  
-Whether I'm building systems or experimenting with new ideas, I'm always trying to improve and learn something new. 
+Whether I'm building systems or experimenting with new ideas, I'm always trying to improve and learn. 
 
 When I’m not coding, you’ll probably find me gaming, watching something,  
 playing music, or getting lost in some deep philosophical rabbit hole.
 
 ---
 
-### Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:caputo.kayk@gmail.com">
