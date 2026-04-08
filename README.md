@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kayk Caputo</h1>
 
 <p align="center">
-  Developer • Computer Science Student
+  Software Developer • Computer Science Student
 </p>
 
 <p align="center">
@@ -20,46 +20,7 @@ playing music, or getting lost in some deep philosophical rabbit hole.
 
 ---
 
-## Featured Projects
-
-### Capetalismo
-An independent game project in development on itch.io
-
-[![Play Capetalismo on itch.io](https://img.shields.io/badge/Play%20Capetalismo-on%20itch.io-ff5f6d?logo=itch.io&style=for-the-badge)](https://xx-caputokayk-xx.itch.io/capetalismo)
-
-> Created with [André Gustavo](https://github.com/AndreXP1)
-  
----
-
-### OracleTrace
-A lightweight Python performance profiler for detecting regressions and comparing execution traces across runs
-
-[View on GitHub](https://github.com/KaykCaputo/oracletrace)
-
-> Created with [André Gustavo](https://github.com/AndreXP1)
-
----
-
-### More Projects
-- Explore my work: https://github.com/KaykCaputo  
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-
-</div>
-
----
-
-## Contact
+### Let's Connect
 
 <div align="center">
   <a href="mailto:caputo.kayk@gmail.com">
