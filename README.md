@@ -36,3 +36,8 @@ playing music, or getting lost in some deep philosophical rabbit hole.
 <p align="center">
   Building, learning, and occasionally overthinking everything.
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaykCaputo/KaykCaputo/main/running-pikachu.gif" width="100"/>
+</p>
