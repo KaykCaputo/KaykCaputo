@@ -15,8 +15,7 @@
 I'm a developer driven by curiosity and a desire to understand how things work.  
 Whether I'm building systems or experimenting with new ideas, I'm always trying to improve and learn. 
 
-When I’m not coding, you’ll probably find me gaming, watching something,  
-playing music, or getting lost in some deep philosophical rabbit hole.
+When I’m not coding, you’ll probably find me gaming, watching something, playing guitar, or getting lost in some deep philosophical rabbit hole.
 
 ---
 
