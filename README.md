@@ -36,7 +36,15 @@ When I’m not coding, you’ll probably find me gaming, watching something, pla
   Building, learning, and occasionally overthinking everything.
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KaykCaputo/KaykCaputo/main/running-pikachu.gif" width="100"/>
+</p>
+
+<p align="center">
+  <a href="https://www.caputo-kayk.dev.br/">
+    <img
+      src="https://img.shields.io/badge/My%20Portfolio-8A2BE2"
+      alt="My Portfolio"
+    />
+  </a>
 </p>
