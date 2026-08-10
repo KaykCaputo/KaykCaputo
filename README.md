@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Kayk Caputo</h1>
 
 <p align="center">
@@ -28,6 +29,12 @@ When I’m not coding, you’ll probably find me gaming, watching something, pla
   <a href="https://www.linkedin.com/in/kayk-caputo">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a rel="me" href="https://mastodon.social/@caputo_kayk">
+  <img
+    src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"
+    alt="Mastodon"
+  />
+</a>
 </div>
 
 ---
